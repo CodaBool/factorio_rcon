@@ -1,4 +1,4 @@
-module github.com/codabool/factorio
+module github.com/codabool/factorio_rcon
 
 go 1.22.7
 
