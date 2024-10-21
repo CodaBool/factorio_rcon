@@ -7,8 +7,9 @@ put the RCON host address into the main.go and build (mine is on 192.168.0.25 bu
 then run using any command from the [docs](https://wiki.factorio.com/console)
 
 ### Usage
-`./rcon PASSWORD COMMAND`
+`go install github.com/codabool/factorio_rcon@latest`
 
+`./rcon PASSWORD COMMAND`
 
 ## Source Module
 github.com/gtaylor/factorio-rcon
